@@ -1,6 +1,7 @@
 # DB-EntregaIndividual
 
 Práctica Evaluativa
+
 Objetivo
 Llegó el momento de prepararnos para evaluar algunos conceptos que hemos visto
 sobre Base de datos hasta el momento.
@@ -10,6 +11,7 @@ Crear un repositorio en GitHub para realizar la entrega que incluya:
 ● Script de SQL.
 
 1
+
 Consigna:
 Necesitamos diseñar una base de datos relacional para almacenar información sobre un
 sistema que administra notas de texto. El interés primario es poder lograr que un usuario
